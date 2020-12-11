@@ -127,33 +127,6 @@ practiceC\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\build
 .PHONY : practiceC\fast
 
-Binary\converting_HEX_to_BIN_situation1.obj: Binary\converting_HEX_to_BIN_situation1.c.obj
-
-.PHONY : Binary\converting_HEX_to_BIN_situation1.obj
-
-# target to build an object file
-Binary\converting_HEX_to_BIN_situation1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\Binary\converting_HEX_to_BIN_situation1.c.obj
-.PHONY : Binary\converting_HEX_to_BIN_situation1.c.obj
-
-Binary\converting_HEX_to_BIN_situation1.i: Binary\converting_HEX_to_BIN_situation1.c.i
-
-.PHONY : Binary\converting_HEX_to_BIN_situation1.i
-
-# target to preprocess a source file
-Binary\converting_HEX_to_BIN_situation1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\Binary\converting_HEX_to_BIN_situation1.c.i
-.PHONY : Binary\converting_HEX_to_BIN_situation1.c.i
-
-Binary\converting_HEX_to_BIN_situation1.s: Binary\converting_HEX_to_BIN_situation1.c.s
-
-.PHONY : Binary\converting_HEX_to_BIN_situation1.s
-
-# target to generate assembly for a file
-Binary\converting_HEX_to_BIN_situation1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\Binary\converting_HEX_to_BIN_situation1.c.s
-.PHONY : Binary\converting_HEX_to_BIN_situation1.c.s
-
 C_Primer_Plus\first.obj: C_Primer_Plus\first.c.obj
 
 .PHONY : C_Primer_Plus\first.obj
@@ -190,9 +163,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... practiceC
-	@echo ... Binary/converting_HEX_to_BIN_situation1.obj
-	@echo ... Binary/converting_HEX_to_BIN_situation1.i
-	@echo ... Binary/converting_HEX_to_BIN_situation1.s
 	@echo ... C_Primer_Plus/first.obj
 	@echo ... C_Primer_Plus/first.i
 	@echo ... C_Primer_Plus/first.s

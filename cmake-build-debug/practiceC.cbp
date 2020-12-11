@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Github/practiceC/Binary/converting HEX to BIN situation1.c">
-			<Option target="practiceC"/>
-		</Unit>
 		<Unit filename="D:/Github/practiceC/C Primer Plus/first.c">
 			<Option target="practiceC"/>
 		</Unit>

@@ -78,12 +78,12 @@ clean: CMakeFiles\practiceC.dir\clean
 CMakeFiles\practiceC.dir\all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\practiceC.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Github\practiceC\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target practiceC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Github\practiceC\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target practiceC"
 .PHONY : CMakeFiles\practiceC.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\practiceC.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Github\practiceC\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Github\practiceC\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\practiceC.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\Github\practiceC\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\practiceC.dir\rule

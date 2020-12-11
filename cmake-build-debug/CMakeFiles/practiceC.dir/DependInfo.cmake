@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Github/practiceC/Binary/converting HEX to BIN situation1.c" "D:/Github/practiceC/cmake-build-debug/CMakeFiles/practiceC.dir/Binary/converting_HEX_to_BIN_situation1.c.obj"
   "D:/Github/practiceC/C Primer Plus/first.c" "D:/Github/practiceC/cmake-build-debug/CMakeFiles/practiceC.dir/C_Primer_Plus/first.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")

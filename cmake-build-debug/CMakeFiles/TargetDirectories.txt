@@ -1,0 +1,3 @@
+D:/Github/practiceC/cmake-build-debug/CMakeFiles/practiceC.dir
+D:/Github/practiceC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/practiceC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
